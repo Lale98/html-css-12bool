@@ -1,13 +1,15 @@
 /* DEBUG */
 .debug .conteiner {
     height: 100%;
-    min-height: 100px;
-    border: 1px solid blue;
+    min-height: 200px;
+    border: 1px solid black;
 }
 .debug [class*="col-"] {
     height: 100%;
-    min-height: 100px;
-    background-color: lightslategray;
+    min-height: 200px;
+    text-align: center;
+    line-height: 200px;
+    background-color: #FFC0CB;
     border: 1px solid black;
 }
 /* /DEBUG */
