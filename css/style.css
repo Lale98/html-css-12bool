@@ -1,0 +1,9 @@
+#neste1 .nested,
+#neste2 .nested {
+    border: 2px solid white;
+    background-color: #F07F80;
+}
+
+[id*="neste"] {
+    padding: 5px;
+}
